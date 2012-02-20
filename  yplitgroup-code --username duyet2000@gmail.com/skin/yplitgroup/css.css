@@ -1,0 +1,132 @@
+/**
+ * @Project WAP_TRUYEN 1.0.0
+ * @Author Yplitgroup (duyet2000@gmail.com)
+ * @Copyright (C) 2012 Yplitgroup.  All rights reserved
+ * @Phone: 0166.26.26.009 - 0122.66.26.009
+ * @Website: http://lemon9x.com
+ */
+.main{
+	font-size: 15px;
+	width: 800px;
+	background: #CACCBB;
+	color: #2F330C;
+	padding: 8px;
+	padding-top: 0;
+	text-align: left;
+}
+
+.logo{
+	text-align:center;
+	font-weight: bold;
+	font-weight: 700;
+	background: blue;
+	height: 30px;
+	border: 1px solid #FC1B1B;
+	padding-top: 10px;
+	padding-bottom: 4px;
+}
+
+.logo a{
+	color: #FBFFD6;
+	text-decoration: none;
+	font-weight: 800;
+}
+
+.thread_title{
+	padding: 4px;
+	border: 1px dotted #86877A;
+	margin-top:5px;
+	color: #0008F2;
+	font-weight: bold;
+}
+
+.counter{
+	font-size: 80%;
+}
+
+.thread_content, .content{
+	margin-top: 2px;
+	margin-bottom: 2px;
+	padding: 6px;
+	border: 1px dotted #8B8CB5;
+}
+
+.footer{
+	border-top: 2px solid #2DF900;
+	background: #A4F791;
+	color: #021BFF;
+}
+
+.back-to-top{
+	color: #FF6302;
+	font-size: 80%;
+	text-align: right;
+}
+
+.back-to-top a{
+	text-decoration: none;
+}
+
+.home_row {
+	width: 100%;
+	height: 20px;
+}
+
+.home_row  a, .home_row  a:active{
+	text-decoration: none;
+}
+
+.home_row  a:active{
+	color: #0018F2;
+}
+
+.home_row  a:visited{
+	color: #097396;
+}
+
+
+.a2{
+	background: #F3F7A5;
+}
+
+.a1{
+	background: #EFAB5D;
+}
+
+.manager a{
+	text-decoration: none;
+}
+
+.manager a:active, .manager a:visited{
+	color: #0020DB;
+}
+
+.logout a, .logout a:visited, .logout a:active, .change_pass a{
+	color: #E00202;
+	font-size: 90%;
+	text-align: right;
+	text-decoration: none;
+}
+
+.manager_content {
+	background: #001DFC;
+	width: 100%;
+}
+
+.manager_content a{
+	text-decoration: none;
+	color: #FFD800;
+}
+
+.m_a1 a{
+	color: #020419;
+}
+
+.m_a2 a{
+	color: #DA00E5;
+}
+
+.break_page{
+	width:100%;
+	text-align: center;
+}
